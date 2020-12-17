@@ -1,0 +1,1926 @@
+﻿body{
+
+}
+.no-padding
+{
+    padding-left:0px;
+    padding-right:0px;
+}
+/*code by aiswariya*/
+.photography-popupstyle .modal-dialog {
+    background: #fff;
+}
+.photography-popupstyle p span {
+    display: block;
+}
+.photography-popupstyle .modal-content {
+    margin: 0;
+    width: 100%;
+}
+.photography-popupstyle h5 {
+    font-weight: bold;
+    font-size: 22px;
+}
+.box-space ul.slick-dots {
+    position: static;
+    margin: 20px 0 0 0;
+}
+.box-space .slick-slide {
+    padding: 0 0 0 20px;
+}
+.box-space ul.slick-dots li.slick-active button {
+    background: #ccc !important;
+}
+.box-space ul.slick-dots li button {
+    background: transparent;
+    width: 12px;
+    height: 12px;
+    border: 1px solid #ccc;
+}
+.photography-popupstyle .close {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    background: #000;
+    opacity: 1;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    font-size: 20px;
+    padding: 0;
+    text-align: center;
+}
+.photography-popupstyle p {
+    font-size: 18px;
+}
+.photography-popupstyle .modal-header button span {
+    position: relative;
+    top: -4px;
+}
+/*code by aiswariya*/
+.bghome {
+    background: url(../images/photography/new/banner-nw.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 100vh !important;
+    padding-top: 13%;
+}
+.bghome-2 {
+    background: url(../images/photography/new/Round-2-Desktop.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 100vh !important;
+    padding-top: 14%;
+    padding-left: 10%;
+}
+.bghome-3 {
+    background: url(../images/photography/new-1/desktop-banner-result-season1-round3.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 100vh !important;
+    padding-top: 14%;
+    padding-left: 10%;
+}
+.apache-banner {
+    position: relative;
+    padding-left: 50px;
+}
+.Homebg1-new
+{
+    height:auto !important;
+}
+.apache-text {
+    width: 100%;
+    text-align: left;
+}
+.apache-text img
+{
+    padding-bottom:50px;
+}
+.apache-text h2 {
+    text-transform: uppercase;
+    margin: 0px;
+    color: #fff;
+    font-size: 110px;
+    font-weight: 900;
+    line-height: 95px;
+}
+.apache-text h2:nth-child(2)
+{
+    margin-bottom:35px;
+}
+.apache-text-2 h2 {
+    text-transform: inherit;
+    margin: 0px;
+    color: #fff;
+    font-size: 62px;
+    font-weight: 900;
+    line-height: 50px;
+    padding-bottom: 25px;
+    margin-bottom: 0px !important;
+}
+.apache-text-2 h2:nth-child(4), .apache-text-2 h2:nth-child(5)
+{
+    padding-bottom:0px;
+    font-size:44px;
+    line-height:48px;
+}
+.apache-text-2 h2:nth-child(5)
+{
+    padding-bottom:25px;
+}
+.apache-text p {
+    font-size: 30px;
+    color: #fff;
+    margin: 0px;
+}
+.apache-text-2 p {
+    font-size: 36px;
+    color: #fff;
+    margin: 0px;
+    line-height:40px;
+}
+.apache-text-2 span
+{
+    display:none;
+}
+.about-apache {
+    background-image: none !important;
+    background-color: #fff !important;
+}
+.about-head
+{
+    text-align: left;
+    position: relative;
+    margin-bottom: 7%;
+}
+.about-head h1
+{
+    font-family: 'Conv_Gilroy-Black';
+    color: #fff;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 20rem;
+    margin: 0px;
+    -webkit-text-stroke: 2px #E7282C;
+    line-height: 70%;
+	margin-top: 6%;
+}
+.about-head p
+{
+    font-family: 'sf_pro_displayregular';
+    font-size: 31px;
+    width: 80%;
+    line-height: 38px;
+    position: absolute;
+    top: 150px;
+    left: 105px;
+    margin: 0px;
+}
+.box-space {
+    margin: 0px 30px;
+    background-image: url(/assets/images/photography/new/background.jpg);
+    background-size: cover;
+    background-position: top center;
+    padding: 15px 0px;
+}
+.dot-image {
+    position: relative;
+}
+.dot-image .dot-20
+{
+    position: absolute;
+    top: 70px;
+    right: 110px;
+	
+}
+.box-image
+{
+    position:relative;
+}
+
+.box-text h2 {
+    font-size: 36px;
+    color: #000;
+    text-transform: uppercase;
+    margin: 20px 0px;
+    padding-bottom: 15px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    padding: 10% 0px;
+}
+.box-image:hover .box-text h2
+{
+    transform: translateX(-10px);
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.box-text p
+{
+    font-family: 'Conv_Gilroy-Regular';
+    font-size:22px;
+    color:#000;
+    margin-bottom:0px;
+    padding-right:10%;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.box-image:hover .box-text p
+{
+    transform: translateX(8px);
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.submit
+{
+    position:relative;
+}
+.submit h2
+{   
+    font-size:6.1em;
+    color:#fff;
+    margin:0px;
+    position:absolute;
+    right:15px;
+    top:202px;
+    padding-right:5px;
+}
+.photo
+{
+    position:relative;
+}
+.pht-text
+{
+    position:absolute;
+    top:140px;
+    left:0px;
+    text-align:left;
+    width:95%;
+    padding: 50px 0px;
+}
+.pht-text h2
+{
+    font-size:7em;
+    color:#000;
+    margin:0px;
+}
+.photo-form
+{
+    padding:40px 0px 0px 40px;
+}
+.photo-form .parent-input
+{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:40px;
+}
+.photo-form .parent-input .form-group
+{
+    margin:0px 5px;
+    position:relative;
+}
+.photo-form .parent-input .form-group .form-lab
+{    
+    font-family: 'Conv_Gilroy-Medium';
+    font-size:14px;
+    color:#000;
+    text-transform:uppercase;
+    margin-bottom:0px;
+}
+.photo-form .parent-input .form-group .form-control
+{
+    width:550px;
+    height:50px;
+    background: transparent;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    border-bottom: 2px solid #c9c9c9;
+    padding:6px 12px;
+}
+.photo-form .parent-input .form-group >span
+{
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    width:2px;
+    height:10px;
+    background-color:#c9c9c9;
+}
+.photo-form .parent-input .form-group input::placeholder
+{
+    font-family: 'Conv_Gilroy-Regular';
+    font-size:13px;
+    color:#c9c9c9 !important;
+    text-transform:uppercase;
+}
+.form-control-choss
+{
+    padding:15px 12px !important;
+}
+.photo-form .parent-input .form-check
+{
+    display: flex;
+    flex-direction: column;
+    width:550px;
+}
+.photo-form .parent-input .form-check div
+{
+    margin-bottom:4px;
+}
+.photo-form .parent-input .form-check button
+{
+    background: transparent;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    font-size:28px;
+    color:#253b83;
+    border-bottom:3px solid #253b83;
+    padding-bottom:5px;
+    text-transform:uppercase;
+    padding: 0px;
+    width: 235px;
+    text-align: left;
+}
+.photo-form .parent-input .form-check button:focus
+{
+    outline:none;
+}
+.read-rules
+{
+    height:165px;
+   /* background-color:#edebec; */
+    position:relative;
+    margin: 75px -65px 0px -15px;
+}
+.read-rules h3
+{
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    right: 180px;
+    display: flex;
+    align-items: center;
+}
+.read-rules h3 a
+{
+    font-family: 'Conv_Gilroy-Medium';
+    font-size: 24px;
+    color: #000;
+    text-decoration:none;
+}
+.read-rules h3 img
+{
+    padding-left:15px;
+}
+.foot_align-pht > li > a
+{
+    font-family: 'Conv_Gilroy-Regular';
+    font-size:16px !important;
+}
+.dot-image .arrow-20{
+	z-index: 1;
+	position: absolute;
+	width: 48px;
+	display: block;
+	top: -28px;
+    right: 203px;
+}
+.photo-form .parent-input .form-group .form-control.caption-hgt
+{
+	max-height: 70px;
+}
+
+.regulation {
+    margin: 20px 40px;
+}
+.regulation ul {
+    list-style: none;
+}
+.regulation ul li {
+    font-size: 21px;
+    line-height: 45px;
+    text-align: left;
+    position: relative;
+}
+.regulation ul li:before {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: #000;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto auto auto -20px;
+    border-radius: 25px;
+}
+.regulation ul .rules-ph:before {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: #000;
+    left: 0px;
+    top: -40px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto auto auto -20px;
+    border-radius: 25px;
+}
+.rules-photo h1 {
+    font-family: 'Conv_Gilroy-Black';
+    color: #fff;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 100px;
+    margin: 0px;
+    -webkit-text-stroke: 2px #E7282C;
+    line-height: 100px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.dot-image .arrow-20{
+    display: none !important;
+}
+.box-text h2{
+	text-align: center;
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 100%;
+    height: 370px;
+    perspective: 1000px;
+	margin-left: 6px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.flip-card-back {
+    color: #000;
+    background: #F3F4F2;
+    transform: rotateY(180deg);
+    margin-left: 5px;
+}
+.box-text {
+    border: 1px solid #000;
+    height: 95%;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+}
+.no-gutters > .col, .no-gutters > [class*=col-] {
+    padding-right: 0;
+    padding-left: 0;
+}
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.share-pic {
+    padding-top: 10px;
+    font-size: 22px !important;
+}
+
+.form-group.form-check input[type=checkbox], input[type=radio] {
+    margin: 4px 6px 0px 0px !important;
+}
+::-webkit-textarea-placeholder { /* Chrome */
+  color: #c9c9c9;
+}
+:-ms-textarea-placeholder { /* IE 10+ */
+  color: #c9c9c9;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #c9c9c9;
+  opacity: 1;
+}
+:-moz-placeholder { /* Firefox 4 - 18 */
+  color: #c9c9c9;
+  opacity: 1;
+}
+#txtCaption::placeholder{
+    color: #c9c9c9 !important;
+ }
+.form-control.form-control-choss
+{
+	 color: #c9c9c9 !important;
+}
+
+.journey-body
+{
+    overflow:auto !important;
+}
+.journey-bg {
+    background: url(/./images/journey/bg.jpg) no-repeat;
+    background-size: cover;
+    height: 972px !important;
+}
+.apache-journey {
+    width: 86%;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 35px 30px;
+}
+.apache-journey h2
+{
+    font-family: sf_pro_displaybold;
+    font-size:23px;
+    color:#000;
+    margin:0px;
+    text-align:center;
+    text-transform:uppercase;
+    padding-bottom:40px;
+}
+.apache-journey .form-group
+{
+    margin-bottom: 25px;
+}
+.apache-journey .form-group .form-control
+{
+    background-color: #EBEBEB;
+    height: 48px;
+    box-shadow: inset 0px 1px 3px 2px rgba(0,0,0,0.1);
+    font-family: sf_pro_displayregular;
+    font-size: 15px;
+    border:none;
+    color: #858585;
+}
+.apache-journey .form-group .form-control-select
+{
+    padding:6px 6px;
+}
+.apache-journey .form-group .form-control:focus
+{
+    border:none;
+}
+.upload p
+{
+    font-family: sf_pro_displayregular;
+    font-size: 16px;
+    color:#666666;
+    margin-bottom:0px;
+    padding: 0px 0px 15px;
+    font-weight: 700;
+}
+.choose-file
+{
+    width:100%;
+    background-color:#F5F5F5;
+    border:1px dashed #B2B2B2;
+    border-radius:5px;
+    padding:20px 0px;
+}
+.choose-file img
+{
+    margin:0px auto;
+    padding-bottom: 10px;
+}
+.choose-file p
+{
+    font-family: sf_pro_displayregular;
+    font-size: 16px;
+    color:#676767;
+    padding-bottom:10px;
+}
+.choose-file .choose-btn
+{
+    width:260px;
+    height:45px;
+    font-size: 16px;
+    color:#fff;
+    /*background: #5F5F5F;*/
+    border-radius:5px;
+    background: rgb(84,84,84);
+    background: linear-gradient(87deg, rgba(84,84,84,1) 0%, rgba(51,51,51,1) 100%);
+    padding: 10px 12px;
+    margin: 0px auto;
+}
+.choose-file .choose-btn:focus
+{
+    background:none;
+    border:none;
+    color:#fff;
+}
+.choose-file .choose-btn:hover
+{
+    background: rgb(84,84,84);
+    background: linear-gradient(87deg, rgba(84,84,84,1) 0%, rgba(51,51,51,1) 100%);
+}
+.mand {
+    text-align: left;
+    margin-top: 20px;
+}
+.mand p
+{
+    font-family: sf_pro_displayregular;
+    font-size: 16px;
+    color:#666666;
+    margin-bottom:0px;
+    padding-bottom:5px;
+}
+.mand label
+{
+    font-family: sf_pro_displayregular;
+    font-size: 15px;
+    color:#666666;
+}
+.mand label input[type=checkbox]
+{
+    display: block;
+}
+.mand .checkbox
+{
+    margin: 0px;
+}
+.jour-subb
+{
+    width:260px;
+    height:50px;
+    background:#ED2124;
+    border:1px solid #ED2124;
+    border-radius:5px;
+    font-family: sf_pro_displayregular;
+    font-size:17px;
+    color:#fff;
+    text-transform:uppercase;
+    border:none;
+    margin-top:35px;
+    -webkit-transition:all 0.3s linear;
+    -moz-transition:all 0.3s linear;
+    transition:all 0.3s linear;
+}
+.jour-subb:hover
+{
+    background:transparent;
+    border:1px solid #ED2124;
+    color:#ED2124;
+    -webkit-transition:all 0.3s linear;
+    -moz-transition:all 0.3s linear;
+    transition:all 0.3s linear;
+}
+.jour-subb:focus
+{
+    background:#ED2124;
+    color:#fff;
+    outline:0;
+    background-position: 0 0px;
+}
+.this-imgg
+{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footersec
+{
+    margin-top:30px;
+}
+.journey-bg-thank
+{
+    height: 965px !important;
+}
+#EthanolBg1
+{
+    background: url(/./images/journey/chequred-flag-1920.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.eth_Right-flag img
+{
+    width: auto !important;
+    margin: 0px auto;
+    display: table;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*breakpoints*/
+
+@media only screen and (min-width:1900px) {
+    .regulation ul .rules-ph:before{
+        content: "";
+        position: absolute;
+        width: 8px;
+        height: 8px;
+        background: #000;
+        left: 0px;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        margin: auto auto auto -20px;
+        border-radius: 25px;
+    }
+    .box-space {
+        height: 60vh;
+    }
+    .flip-card {
+        height: 510px;
+    }
+}
+
+@media only screen and (max-width:1899px) {
+	
+}
+@media only screen and (max-width: 1680px){
+    .rules-photo h1 {
+        font-size: 90px;
+        line-height: 90px;
+    }
+    .regulation ul li {
+        font-size: 18px;
+    }
+    .regulation ul .rules-ph:before{
+        top: 0px;
+    }
+    .box-space {
+        height: 52vh;
+    }
+    .flip-card {
+        height: 440px;
+    }
+    .vidbgsection {
+        height: 100vh !important;
+    }
+}
+@media only screen and (max-width:1600px) {
+    .bghome {
+        height: 100vh !important;
+    }
+    .bghome-2 {
+        height: 100vh !important;
+    }
+    .box-space {
+        height: 43vh;
+    }
+    .flip-card {
+        height: 420px;
+    }
+    .apache-text h2
+    {
+        font-size: 82px;
+        line-height: 66px;
+    }
+    .apache-text p
+    {
+        font-size:25px;
+    }
+    .dot-image .dot-20
+    {
+        width:420px;
+    }
+	.dot-image .arrow-20 {
+    
+    top: -28px;
+    right: 203px;
+}
+    .about-head h1
+    {
+        font-size: 16rem;
+		margin-top: 6%;
+    }
+    .about-head p
+    {
+        font-size: 28px;
+        line-height: 33px;
+        position: absolute;
+        left:100px;
+    }
+    .box-space {
+        margin: 0px 25px;
+    }
+    .box-text h2 {
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+    .box-text p
+    {
+        font-size: 19px;
+        padding-right: 8%;
+    }
+    .submit h2
+    {
+        font-size: 5em;
+        position: absolute;
+        top: 108px;
+    }
+    .photo img
+    {
+        width:580px;
+    }
+    .pht-text
+    {
+        position: absolute;
+        top: 100px;
+	    padding: 0px 0px;
+    }
+    .pht-text h2
+    {
+        font-size: 5.5em;
+    }
+    .photo-form .parent-input .form-group .form-lab
+    {
+        font-size: 13px;
+    }
+    .photo-form .parent-input .form-group .form-control
+    {
+        width: 465px;
+        height: 45px;
+    }
+    .photo-form .parent-input .form-check
+    {
+        width:465px;
+    }
+    .photo-form .parent-input .form-check button
+    {
+        font-size: 24px;
+        width: 200px;
+    }
+    .photo-form .parent-input
+    {
+        margin-bottom: 25px;
+    }
+    .read-rules
+    {
+        height: 140px;
+        margin: 50px -65px 0px -15px;
+    }
+    .read-rules h3 a
+    {
+        font-size:20px;
+    }
+    .read-rules h3 img
+    {
+        width:40px;
+    }
+    .read-rules h3
+    {
+        position: absolute;
+        top: 58px;
+    }
+    .form-control-choss {
+        padding: 10px 12px !important;
+    }
+    .apache-text h2:nth-child(3) {
+        margin-bottom: 5px;
+    }
+    .apache-text img {
+        padding-bottom: 25px;
+    }
+    .rules-photo h1 {
+        font-size: 80px;
+        line-height: 80px;
+    }
+    .regulation ul li {
+        font-size: 19px;
+    }
+    .regulation {
+        margin: 20px 20px;
+    }
+    .bghome-2
+    {
+        padding-top: 10%;
+    }
+    .apache-text-2 h2
+    {
+        font-size: 54px;
+        padding-bottom: 20px;
+    }
+    .apache-text-2 h2:nth-child(4), .apache-text-2 h2:nth-child(5)
+    {
+            font-size: 40px;
+    line-height: 42px;
+    }
+    .apache-text-2 h2:nth-child(5) {
+    padding-bottom: 15px;
+}
+    .apache-text-2 p
+    {
+        line-height: 30px;
+}
+    .apache-journey
+    {
+        width: 95%;
+        padding: 30px 25px;
+    }
+    .footersec {
+        margin-top: 10px;
+    }
+    .this-imgg img
+    {
+        width: 635px;
+    }
+    .journey-bg
+    {
+        height: 910px !important;
+    }
+    .footer-social-al {
+        position: absolute !important;
+        right: 3rem !important;
+    }
+    .journey-bg-thank {
+        height: 882px !important;
+    }
+    .footersec
+    {
+        margin-top: 55px;
+    }
+    }
+@media only screen and (max-width:1540px) {
+    .about-head
+    {
+        margin-bottom: 9%;
+    }
+    .about-head h1 {
+        font-size: 14rem;
+		    margin-top: 6%;
+    }
+    .about-head p
+    {
+        font-size: 27px;
+        line-height: 32px;
+    }
+    .dot-image .dot-20 {
+        width: 400px;
+    }
+	.dot-image .arrow-20
+	{
+		 width: 42px;
+		 display: block;
+	}
+    .box-text h2 {
+        font-size: 28px;
+        padding-bottom: 5px;
+    }
+    .box-text p {
+        font-size: 18px;
+        padding-right: 5%;
+    }
+    
+    .submit h2 {
+        font-size: 5.2em;
+        position: absolute;
+        top: 80px;
+    }
+    .pht-text {
+        position: absolute;
+        top: 32px;
+	    padding: 50px 0px;
+    }
+    .pht-text h2 {
+    font-size: 5.2em;
+}
+    .photo img {
+        width: 525px;
+    }
+    .photo-form .parent-input .form-group .form-lab {
+        font-size: 12px;
+    }
+    .photo-form .parent-input .form-group .form-control
+    {
+        width:445px;
+    }
+    .photo-form .parent-input .form-check button {
+        font-size: 22px;
+        width: 185px;
+        padding-top: 4px;
+    }
+    .read-rules {
+        height: 130px;
+        margin: 54px -65px 0px -15px;
+    }
+    .read-rules h3 a {
+    font-size: 18px;
+}
+    .read-rules h3 img {
+    width: 35px;
+    padding-left:10px;
+}
+        .read-rules h3 {
+            position: absolute;
+            top: 43px;
+        }
+        .apache-text img {
+            padding-bottom: 20px;
+            width: 410px;
+        }
+        .rules-photo h1 {
+            font-size: 12rem;
+            margin-top: 3%;
+        }
+        .regulation ul li {
+            font-size: 18px;
+        }
+    .pht-text {
+        position: absolute;
+        top: 66px;
+    }
+    .submit h2 {
+        font-size: 66px;
+        position: absolute;
+        top: 112px;
+    }
+    .pht-text h2 {
+        font-size: 60px;
+    }
+    .this-imgg img {
+        width: 600px;
+    }
+    .apache-journey {
+        padding: 25px 25px;
+    }
+    .apache-journey h2
+    {
+        font-size: 21px;
+        padding-bottom: 35px;
+    }
+    .journey-bg {
+        height: 890px !important;
+    }
+    .journey-bg-thank {
+        height: 882px !important;
+    }
+}
+@media only screen and (max-width:1440px) {
+    .apache-text h2 {
+        font-size: 76px;
+        line-height: 64px;
+    }
+    .apache-text h2:nth-child(3) {
+    margin-bottom: 0px;
+}
+    .apache-text p {
+        font-size: 23px;
+    }
+    .dot-image .dot-20 {
+        width: 355px;
+        position: absolute;
+        
+    }
+	.dot-image .arrow-20
+	{
+	top: -28px;
+    width: 45px;
+    right: 165px;
+	display: block;
+	}
+    .about-head h1 {
+        font-size: 13rem;
+        line-height:69%;
+	 margin-top: 6%;
+    }
+    .about-head p {
+        font-size: 25px;
+        line-height: 29px;
+        position: absolute;
+        top: 110px;
+        left: 80px;
+    }
+    .box-space {
+        margin: 0px 15px;
+    }
+    .box-text h2 {
+        font-size: 26px;
+    }
+    .photo-form {
+        padding: 25px 0px 0px 25px;
+    }
+    .photo-form .parent-input .form-group .form-control, .photo-form .parent-input .form-check {
+    width: 425px;
+}
+    .photo-form .parent-input .form-check button {
+    font-size: 20px;
+    width: 168px;
+    padding-top: 7px;
+}
+    .read-rules {
+        height: 119px;
+        margin: 30px -65px 0px -15px;
+    }
+    .read-rules h3 img
+    {
+        width:30px;
+    }
+    .read-rules h3 {
+    position: absolute;
+    top: 38px;
+}
+    .rules-photo h1 {
+        font-size: 70px;
+        line-height: 70px;
+    }
+.regulation ul li {
+    font-size: 17px;
+}
+.bghome {
+    height: 100vh !important;
+}
+    .bghome-2 {
+        height: 100vh !important;
+    }
+.box-space {
+    height: 55vh;
+}
+    .flip-card {
+        height: 380px;
+    }
+    .vidbgsection {
+        height: 87vh !important;
+    }
+    .apache-text-2 h2
+    {
+        font-size:48px;
+    }
+    .pht-text
+    {
+        position: absolute;
+        top: 40px;
+    }
+    .submit h2 {
+        font-size: 62px;
+        position: absolute;
+        top: 90px;
+    }
+    .this-imgg img {
+        width: 550px;
+    }
+    .apache-journey {
+        width: 98%;
+        padding: 20px 25px;
+        margin-top:20px;
+    }
+    .apache-journey h2
+    {
+        font-size: 20px;
+        padding-bottom: 30px;
+    }
+    .apache-journey .form-group .form-control
+    {
+        height:45px;
+    }
+    .jour-subb
+    {
+        height:45px;
+    }
+    .footersec {
+        margin-top: 10px;
+    }
+    .footer-social-al {
+        position: absolute !important;
+        right: 0rem !important;
+    }
+}
+@media only screen and (max-width:1399px) {
+    .bghome {
+        height: 100vh !important;
+    }
+    .bghome-2 {
+        height: 100vh !important;
+    }
+    .box-space {
+        height: 62vh;
+    }
+    .flip-card {
+        height: 365px;
+    }
+    .apache-text h2 {
+        font-size: 70px;
+        line-height: 58px;
+    }
+    .apache-text-2 h2 {
+        font-size: 44px;
+    }
+        .apache-text p {
+        font-size: 21px;
+    }
+    .dot-image .dot-20 {
+        width: 310px;
+        position: absolute;
+        
+        right:90px;
+    }
+	.dot-image .arrow-20
+	{
+	top: -37px;
+    right: 116px;
+    width: 54px;
+	display: block;
+	}
+    .about-head h1 {
+        font-size: 10rem;
+        margin-top: 2%;
+    }
+    .about-head p {
+        font-size: 23px;
+        line-height: 28px;
+        position: absolute;
+        top: 86px;
+        left: 75px;
+        width: 85%;
+    }
+    .box-text h2 {
+        font-size: 25px;
+        padding: 2% 0px;
+    }
+    .box-text p {
+        font-size: 14px;
+        padding-right: 4%;
+    }
+    .submit h2
+    {
+        font-size: 5.5rem;
+        position: absolute;
+    top: 58px;
+    }
+    .photo img {
+        width: 470px;
+    }
+    .pht-text h2 {
+        font-size: 5.1rem;
+    }
+    .photo-form .parent-input .form-group .form-control, .photo-form .parent-input .form-check {
+        width: 400px;
+    }
+    .read-rules {
+        height: 90px;
+        margin: 20px -65px 0px -15px;
+    }
+    .read-rules h3 a {
+    font-size: 17px;
+}
+    .read-rules h3 img {
+    width: 27px;
+}
+        .read-rules h3 {
+            position: absolute;
+            top: 5px;
+            right:190px;
+        }
+    .rules-photo h1 {
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .regulation ul li {
+        font-size: 18px;
+    }
+        .regulation ul .rules-ph:before {
+            top: -30px;
+        }
+        .rules-ph {
+            line-height: 30px !important;
+        }
+        .about-head {
+            margin-bottom: 6%;
+        }
+    .vidbgsection {
+        height: 100vh !important;
+    }
+    .pht-text {
+        position: absolute;
+        top: 10px;
+    }
+    .this-imgg img {
+        width: 500px;
+    }
+    .apache-journey {
+        margin-top: 30px;
+        padding: 20px 25px;
+    }
+    .apache-journey h2 {
+    font-size: 18px;
+}
+    .apache-journey .form-group .form-control {
+    height: 43px;
+}
+    .upload p
+    {
+        font-size: 15px;
+        padding: 0px 0px 10px;
+    }
+    .choose-file p, .mand p
+    {
+        font-size:15px;
+    }
+    .choose-file .choose-btn
+    {
+         width: 230px;
+         font-size: 15px;
+    }
+    .mand label
+    {
+        font-size:14px;
+    }
+    .jour-subb
+    {
+        width: 230px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+    .footersec {
+        margin-top: 25px;
+    }
+    .journey-bg {
+        height: 865px !important;
+    }
+}
+@media only screen and (max-width:1280px) {
+    .photo-form {
+        padding: 15px 0px 0px 15px;
+    }
+    .photo-form .parent-input .form-group .form-control, .photo-form .parent-input .form-check {
+    width: 380px;
+}
+    .photo-form .parent-input {
+    margin-bottom: 20px;
+}
+    .read-rules
+    {
+        height:97px;
+    }
+    .this-imgg img {
+        width: 465px;
+    }
+    .apache-journey h2
+    {
+        padding-bottom: 25px;
+    }
+    .apache-journey .form-group .form-control {
+        height: 40px;
+    }
+    .upload p {
+        font-size: 14px;
+        padding: 0px 0px 10px;
+    }
+    .choose-file p, .mand p {
+        font-size: 14px;
+    }
+    .mand label {
+        font-size: 13px;
+    }
+    .apache-journey
+    {
+       padding: 20px 20px;
+       margin-top: 35px;
+    }
+}
+@media only screen and (max-width:1199px) {
+    .submit h2 {
+        font-size: 5rem;
+        position: absolute;
+        top: 50px;
+    }
+    .photo img {
+        width: 400px;
+    }
+    .pht-text h2 {
+        font-size: 4.8rem;
+    }
+    .pht-text {
+        position: absolute;
+        top: 20px;
+		z-index: 1;
+		padding: 30px 0px;
+    }
+    .photo-form {
+        padding: 10px 0px 0px 10px;
+    }
+    .photo-form .parent-input .form-group .form-control, .photo-form .parent-input .form-check {
+    width: 360px;
+}
+    .read-rules {
+        height: 89px;
+    }
+        .read-rules h3 a {
+            font-size: 15px;
+        }
+    .read-rules h3 {
+    position: absolute;
+    top: 35px;
+    right: 180px;
+}
+    .about-head p
+    {
+        font-size:20px;
+    }
+    .regulation ul li {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .bghome {
+        padding-top: 10%;
+    }
+    .apache-text h2 {
+        font-size: 64px;
+    }
+    .apache-text-2 h2 {
+        font-size: 36px;
+    }
+    .apache-text-2 h2:nth-child(4), .apache-text-2 h2:nth-child(5) {
+    font-size: 34px;
+    line-height: 38px;
+}
+    .box-space {
+        height: 56vh;
+    }
+    .about-head {
+        margin-bottom: 8%;
+    }
+    .flip-card {
+        height: 270px;
+    }
+    .rules-photo h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .photo-form .parent-input .form-group .form-control, .photo-form .parent-input .form-check {
+        width: 320px;
+    }
+    .photo-form .parent-input .form-group {
+        margin-right: 15px;
+    }
+}
+@media only screen and (max-width:991px) {
+    .bghome {
+        height: 65vh !important;
+    }
+    .share-pic {
+        font-size: 14px !important;
+    }
+    .about-head p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .flip-card {
+        height: 410px;
+    }
+    .box-space {
+        height: auto;
+    }
+    .rules-photo h1 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .dot-image .dot-20
+    {
+        display:none;
+    }
+	.dot-image .arrow-20
+	{
+	display:none;	
+	}
+    .submit h2 {
+        position: absolute;
+        top: 120px;
+        left: 30px;
+        text-align: left;
+    }
+    .pht-text {
+        position: relative;
+        top: 25px;
+		padding: 20px 0px;
+    }
+    .pht-text h2
+    {
+        padding-left: 25px;
+    }
+    .pht-text
+    {
+        width:98%;
+    }
+    .photo-form {
+        padding: 10px 0px 0px 25px;
+    }
+    .photo-form .parent-input .form-group .form-control, .photo-form .parent-input .form-check {
+    width: 350px;
+}
+    .read-rules {
+        height: 110px;
+    }
+        .read-rules h3 {
+            position: absolute;
+            top: 22px;
+            right: 165px;
+        }
+    .apache-text p {
+        font-size: 16px;
+    }
+    .apache-text h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .apache-text img {
+        padding-bottom: 20px;
+        width: 280px;
+    }
+    .regulation ul li {
+        font-size: 12px;
+    }
+    .submit img{
+        width: 100%;
+    }
+    .vidbgsection {
+        background: #fff !important;
+        height: auto !important;
+    }
+    .apache-text-2 h2:nth-child(4), .apache-text-2 h2:nth-child(5) {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .this-imgg
+    {
+        height: 55vh;
+    }
+    .journey-bg
+    {
+        background-size: cover;
+        height: 1120px !important;
+    }
+    .footer-social-al {
+        position: absolute !important;
+        top: 60px !important;
+        right: 0rem !important;
+        left: 0rem !important;
+    }
+    .journey-bg-thank {
+        height: 882px !important;
+    }
+    }
+@media only screen and (max-width:767px) {
+    .bghome {
+        background: url(../images/photography/new/banner-nw-mobile.jpg) no-repeat;
+        background-size: cover;
+        background-position: top center !important;
+        height: 100vh !important;
+        padding-top: 100% !important;
+    }
+    .bghome-2 {
+        background: url(../images/photography/new/Round-2-Mobile.jpg) no-repeat;
+        background-size: cover;
+        background-position: top center !important;
+        height: 100vh !important;
+        padding-top: 87% !important;
+    }
+    .bghome-3 {
+        background: url(../images/photography/new-1/mobile-banner-result-season1-round3.jpg) no-repeat;
+        background-size: cover;
+        background-position: top center !important;
+        height: 100vh !important;
+        padding-top: 87% !important;
+    }
+    .apache-banner {
+        position: relative;
+        padding-left: 0px;
+        padding-top: 25px;
+    }
+    .apache-text h2 {
+    font-size: 28px;
+    line-height: 28px;
+}
+    .apache-text-2 h2 {
+        font-size: 22px;
+        line-height: 20px;
+        padding-bottom: 15px;
+    }
+    .apache-text-2 h2:nth-child(4), .apache-text-2 h2:nth-child(5) {
+    font-size: 20px;
+    line-height: 20px;
+}
+        .apache-text-2 h2:nth-child(5) {
+            padding-bottom: 10px;
+        }
+    .apache-text h2:nth-child(3) {
+    margin-bottom: 5px;
+}
+        .apache-text p {
+            font-size: 13px;
+            width:100%;
+        }
+    .apache-text-2 p {
+        font-size: 16px;
+        width: 95%;
+        margin: 0px auto;
+        line-height: 20px;
+    }
+    .apache-text-2 p:nth-child(7)
+    {
+        margin-bottom:25px;
+    }
+    .apache-text-2 span
+    {
+        font-size:16px;
+        color:#fff;
+        text-transform:uppercase;
+        display:none;
+        font-weight: 600;
+    padding-bottom: 10px;
+    }
+    .about-head h1 {
+        font-size: 40px;
+        line-height: 0px;
+        margin-top: 6%;
+    }
+    .about-head p
+    {
+        font-size: 14px;
+        position: inherit;
+        top: 35px;
+        left: 10px;
+        width: 100%;        
+    }
+    .about-head {
+        margin-bottom: 9%;
+    }
+    .dot-image .dot-20 {
+        display: block;
+        width: 225px;
+        height: 100px;
+        position: absolute;
+        top: -331px;
+        right: 0px;
+    }
+	.dot-image .arrow-20
+	{
+	top: -325px;
+    right: 30px;
+    width: 40px;
+	display: block;
+	}
+    .box-space {
+        margin: 0px 0px;
+        background:none;
+    }
+   
+    .box-text h2 {
+    font-size: 16px;
+    padding-bottom:0px;
+}
+    .box-text p {
+        font-size: 15px;
+        padding-right: 0%;
+        line-height: 20px;
+    }
+    .mob-pad
+    {
+        padding:0px;
+    }
+    .submit
+    {
+        margin: 80px -15px 0px -15px;
+    }
+    .submit h2:nth-child(3)
+    {
+        position: absolute;
+        top: -52px; 
+        left: 20px;
+        font-size: 42px;
+        color: #000;
+    }
+    .submit h2:nth-child(4)
+    {
+        position: absolute;
+        top: 0px;
+        left: 20px;
+        color: #fff;
+        font-size: 42px;
+    }
+    .photo-form {
+        padding: 10px 0px 0px 10px;
+    }
+    .photo-form .parent-input {
+    margin-bottom: 0px;
+    flex-direction: column;
+}
+    .photo-form .parent-input .form-group .form-control, .photo-form .parent-input .form-check {
+    width: 100%;
+}
+    .photo-form .parent-input .form-group
+    {
+        margin-bottom:20px;
+    }
+    .read-rules {
+        height: 125px;
+        margin: 20px 0px 0px 0px;
+    }
+    .read-rules h3 {
+    position: inherit;
+    top: 32px;
+    right: 0px;
+    left: 20px;
+}
+    .apache-text img {
+        padding-bottom: 20px;
+        width: 210px;
+        margin: 0px auto;
+    }
+    .rules-photo h1 {
+        font-size: 30px;
+        margin-top: 0%;
+        line-height: 30px;
+        margin-left: 0px;
+    }
+    .regulation {
+        margin: 20px 5px;
+    }
+    .regulation ul {
+        list-style: none;
+        padding: 5px;
+    }
+    .regulation ul li {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .regulation ul li:before {
+        left: -20px;
+        top: 12px;
+        margin: 0px;
+    }
+    .regulation ul .rules-ph:before{
+        left: -20px;
+        top: 12px;
+        margin: 0px;
+    }
+	.box-text p
+	{
+		color:#000;
+		width: 70%;
+        margin: 0 auto;
+	}
+    .flip-card {
+        height: 530px;
+    }
+    .share-pic {
+        font-size: 14px !important;
+    }
+.box-space .slick-slide {
+    padding: 0 0 0 0px;
+}
+.box-text {
+    margin: 10px 20px 10px 10px;
+}
+    .apache-text {
+        text-align: center;
+    }
+    .this-imgg {
+        height: auto;
+        padding-top: 10px;
+    }
+    .apache-journey {
+        padding: 20px 5px;
+        margin-top: 25px;
+    }
+    .apache-journey h2 {
+    font-size: 16px;
+    line-height: 22px;
+    padding-bottom: 20px;
+}
+    .apache-journey .form-group {
+    margin-bottom: 20px;
+}
+    .choose-file
+    {
+        padding: 20px 0px;
+    }
+    .choose-file .choose-btn {
+    width: 220px;
+    font-size: 15px;
+    padding: 8px 12px;
+    height: 41px;
+}
+    .jour-subb {
+        width: 160px;
+        font-size: 15px;
+        margin-top: 20px;
+        height: 40px;
+    }
+    .footersec {
+        margin-top: 0px;
+    }
+    .journey-bg
+    {
+        background-position: 15% 0%;
+        height: 1145px !important;
+    }
+    .journey-bg-thank
+    {
+        height: 570px !important;
+    }
+    #EthanolBg1 {
+        background: url(/./images/journey/chequred-flag-750.jpg) no-repeat;
+        background-size: cover;
+        height: 100vh !important;
+    }
+    .eth_Right-flag
+    {
+        padding-top:25%;
+    }
+    .explink-flag
+    {
+        display: inline-table!important;
+        margin-top: 40px;
+    }
+}
+
+
+
+
+@media (min-width: 321px) and (max-width: 375px){
+    .flip-card {
+        height: 350px;
+    }
+}
+@media (max-width: 320px){
+    .flip-card {
+        height: 320px !important;
+    }
+	.pht-text h2 {
+    font-size: 3.8rem;
+    }
+}
+
+@media only screen and (max-width:425px) {
+ .dot-image .dot-20 {
+        display: block;
+        width: 225px;
+        height: 100px;
+        position: absolute;
+        top: -370px;
+        right: 0px;
+    }
+	.dot-image .arrow-20
+	{
+	top: -344px;
+    right: 30px;
+    width: 40px;
+	display: block;
+	}
+    .flip-card {
+        height: 435px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1194px)
+{
+.photo-20
+{
+	height: 570px !important;
+}
+}
+
+@media (min-width:768px)
+{
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+}
+@media (max-width:767px)
+{
+    .flip-card-back{
+        overflow: hidden;
+    }
+ 
+}
